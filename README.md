@@ -1,16 +1,17 @@
-# Senior Assoc. Prof. Eva Blomqvist, Linköping University
+# Senior Assoc. Prof., Linköping University, Sweden
 
 ![image](https://github.com/evabl444/evabl444.github.io/assets/19287319/6f18b96b-95b6-446f-bd65-bd826342dcba)
 
-Associate Professor (Bitr. professor) at Linköping University
+Eva Blomqvist - Senior Associate Professor (Bitr. professor) at Linköping University
 – Docent, PhD in Computer Science
 
 I am an Associate Professor, in the KMACS lab (HCS division) at the Department of Computer and Information Science, Linköping University – and part of the LiU Semantic Web research area. My research is focused on explainable AI, including the Semantic Web and knowledge representation. Particular interests include ontology engineering methodologies and ontology design patterns.
 
 I live in Jönköping, Sweden, and have two small children. Non-research-related interests include triathlon, where I have worked as an ITU Technical Official for the past 10 years, and nationally even longer. More recently I have been part of the team behind Jönköping Swimrun. I also enjoy swimming, running and biking myself, when time permits.
 
-Recent news
-(For additional news see also the LiU Semantic Web Twitter and blog.)
+## Recent news
+See my [X](https://x.com/evabl444), [LinkedIn page](https://www.linkedin.com/in/evablomqvist/), or [Mastodon account](https://mastodon.social/@evabl444). 
+(For additional news see also the [LiU Semantic Web on X](https://x.com/liusemweb) and [blog](https://semanticweb.blog.liu.se/).)
 
 ## Contact
 ### Address
@@ -23,6 +24,10 @@ Sweden
 
 ### E-mail
 (firstname.lastname)@liu.se
+
+### Other websites
+[My personal page at the department](https://www.ida.liu.se/~evabl45/) of Computer and Information Science, Linköping University
+[The official staff page](https://liu.se/en/employee/evabl45) at Linköping University
 
 ## CV & Publications
 A complete CV can be [downloaded as a pdf.](https://www.ida.liu.se/~evabl45/CV-EvaBlomqvist_updated2021.pdf) A list of publications can also be found at the bottom of this page.
