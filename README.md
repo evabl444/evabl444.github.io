@@ -25,7 +25,7 @@ Sweden
 (firstname.lastname)@liu.se
 
 ## CV & Publications
-A complete CV can be downloaded as a pdf. A list of publications can also be found at the bottom of this page.
+A complete CV can be [downloaded as a pdf.](https://www.ida.liu.se/~evabl45/CV-EvaBlomqvist_updated2021.pdf) A list of publications can also be found at the bottom of this page.
 
 ### Bio
 My main research focus is on applied and industry-relevant research in the area of the Semantic Web and explainable AI. In particular, my focus is on knowledge representation, such as ontologies and knowledge graphs, including ontology-based applications and ontology engineering, and its combination with modern Machine Learning. An important concept throughout my research career has been the notion of ontology design patterns, which was first developed and explored during my PhD. In parallel with Aldo Gangemi (later a colleague at ISTC-CNR), I was the first to coin the term ‘ontology design pattern’, in 2005, and then to define and explore it further.
