@@ -1,6 +1,6 @@
 # Senior Assoc. Prof., Linköping University, Sweden
 
-![image](https://github.com/evabl444/evabl444.github.io/assets/19287319/6f18b96b-95b6-446f-bd65-bd826342dcba)
+<img src="https://github.com/evabl444/evabl444.github.io/assets/19287319/6f18b96b-95b6-446f-bd65-bd826342dcba" width="200">
 
 Eva Blomqvist - Senior Associate Professor (Bitr. professor) at Linköping University
 – Docent, PhD in Computer Science
