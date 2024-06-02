@@ -9,9 +9,13 @@ I am an Associate Professor, in the KMACS lab (HCS division) at the Department o
 
 I live in Jönköping, Sweden, and have two small children. Non-research-related interests include triathlon, where I have worked as an ITU Technical Official for the past 10 years, and nationally even longer. More recently I have been part of the team behind Jönköping Swimrun. I also enjoy swimming, running and biking myself, when time permits.
 
+---
+
 ## Recent news
 See my [X](https://x.com/evabl444), [LinkedIn page](https://www.linkedin.com/in/evablomqvist/), or [Mastodon account](https://mastodon.social/@evabl444). 
 (For additional news see also the [LiU Semantic Web on X](https://x.com/liusemweb) and [blog](https://semanticweb.blog.liu.se/).)
+
+---
 
 ## Contact
 ### Address
@@ -28,6 +32,8 @@ Sweden
 ### Other websites
 [My personal page at the department](https://www.ida.liu.se/~evabl45/) of Computer and Information Science, Linköping University
 [The official staff page](https://liu.se/en/employee/evabl45) at Linköping University
+
+---
 
 ## CV & Publications
 A complete CV can be [downloaded as a pdf.](https://www.ida.liu.se/~evabl45/CV-EvaBlomqvist_updated2021.pdf) A list of publications can also be found at the bottom of this page.
