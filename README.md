@@ -22,7 +22,7 @@ Sweden
 +46 13 282772
 
 ### E-mail
-<firstname.lastname>@liu.se
+(firstname.lastname)@liu.se
 
 ## CV & Publications
 A complete CV can be downloaded as a pdf. A list of publications can also be found at the bottom of this page.
