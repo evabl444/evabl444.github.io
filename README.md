@@ -49,14 +49,14 @@ Keskisärkkä R., Blomqvist E., Lind L., and Hartig O.: Capturing and Querying U
 
 Blomqvist E., Alirezaie M., and Santini M.: Towards Causal Knowledge Graphs – Position Paper. To appear in: Proceedings of the 5th International Workshop on Knowledge Discovery in Healthcare Data (KDH 2020), 2020. – (peer-reviewed workshop contribution)
 
-Capshaw R., Kuhlmann M., and Blomqvist E.: Probing a Semantic Dependency Parser for Translational Relation Embeddings. To appear in: Proceedings of the 2020 workshop on Deep Learning for Knowledge Graphs (DL4KG) at ESWC 2020, CEUR, 2020. – (peer-reviewed workshop contribution)
+Capshaw R., Kuhlmann M., and Blomqvist E.: [Probing a Semantic Dependency Parser for Translational Relation Embeddings.](https://alammehwish.github.io/dl4kg_eswc_2020/papers/paper6.pdf) To appear in: Proceedings of the 2020 workshop on Deep Learning for Knowledge Graphs (DL4KG) at ESWC 2020, CEUR, 2020. – (peer-reviewed workshop contribution)
 
-Hogan A., et al. : Knowledge Graphs. arXiv preprint, arXiv:2003.02320 – (arXiv preprint)
+Hogan A., et al. : [Knowledge Graphs.](https://arxiv.org/abs/2003.02320) arXiv preprint, arXiv:2003.02320 – (arXiv preprint)
 
 #### 2019
-Keskisärkkä, R., Blomqvist, E., Lind, L., and Hartig, O.: RSP-QL*: Enabling StatementLevel Annotations in RDF Streams. In: SEMANTiCS 2019: Semantic Systems. The Power of AI and Knowledge Graphs, LNCS Vol. 11702, Springer, 2019. – (peer-reviewed conference contribution) **Best research paper award**
+Keskisärkkä, R., Blomqvist, E., Lind, L., and Hartig, O.: [RSP-QL*: Enabling StatementLevel Annotations in RDF Streams.](https://rdcu.be/b52ey) In: SEMANTiCS 2019: Semantic Systems. The Power of AI and Knowledge Graphs, LNCS Vol. 11702, Springer, 2019. – (peer-reviewed conference contribution) **Best research paper award**
 
-Fernanda Dorea et al.: Drivers for the development of an Animal Health Surveillance Ontology (AHSO). In: Preventive Veterinary Medicine, Volume 166, Pages 39-48, Elsevier, 2019. – (peer-reviewed journal article)
+Fernanda Dorea et al.: [Drivers for the development of an Animal Health Surveillance Ontology (AHSO).](https://doi.org/10.1016/j.prevetmed.2019.03.002) In: Preventive Veterinary Medicine, Volume 166, Pages 39-48, Elsevier, 2019. – (peer-reviewed journal article)
 
 Santini, M., Jönsson, A., Strandqvist, W., Cederblad, G., Nyström, M., Alirezaie, M., Lind, L., Blomqvist, E., Lindén, M., and Kristoffersson, A.: Designing an Extensible Domain-Specific Web Corpus for “Layfication”: A Case Study in eCare at Home. In: M. Dimitrova, and H. Wagatsuma (Eds.), Cyber-Physical Systems for Social Applications, pp. 98-155, IGI Global, 2019. – (book chapter)
 
@@ -71,18 +71,18 @@ Sabou, M., Blomqvist, E., Groth, P., Kirrane, S., de Melo, G., Mons, B., Paulhei
 Rashid, S., Blomqvist, E., Shimizu, C. M., and Dumontier, M.: On the Creation of Knowledge Graphs: A Report on Best Practices and their Future. In: Bonatti, P. A., Decker, S., Polleres, A., and Presutti, V. (Editors) Knowledge Graphs: New Directions for Knowledge Representation on the Semantic Web (Dagstuhl Seminar 18371). Dagstuhl Reports, Vol. 8, No. 9, 2019. – (book chapter)
 
 #### 2018
-Alirezaie, M., Hammar, K., and Blomqvist, E.: SmartEnv as a network of ontology patterns. Semantic Web 9(6), pp. 903-918, 2018. – (peer-reviewed journal article)
+Alirezaie, M., Hammar, K., and Blomqvist, E.: [SmartEnv as a network of ontology patterns.](http://www.semantic-web-journal.net/system/files/swj1777.pdf) Semantic Web 9(6), pp. 903-918, 2018. – (peer-reviewed journal article)
 
-Alirezaie, M., Hammar, K., Blomqvist, E., Nystrom, M., and Ivanova, V.: SmartEnv Ontology in E-care@home. In: Proceedings of the 9th International Semantic Sensor Networks Workshop co-located with 17th International Semantic Web Conference (ISWC 2018), CEUR-WS Vol. 2213, 2018. – (peer-reviewed workshop contribution)
+Alirezaie, M., Hammar, K., Blomqvist, E., Nystrom, M., and Ivanova, V.: [SmartEnv Ontology in E-care@home.](http://ceur-ws.org/Vol-2213/paper7.pdf) In: Proceedings of the 9th International Semantic Sensor Networks Workshop co-located with 17th International Semantic Web Conference (ISWC 2018), CEUR-WS Vol. 2213, 2018. – (peer-reviewed workshop contribution)
 
 Blomqvist, E.: Ontologies for Big Data. In: Sakr, S., and Zomaya, A. (Eds.) Encyclopedia of Big Data Technologies. Springer, 2018. – (invited book chapter)
 
 Blomqvist, E., Corcho, O., Horridge, M., Carral, D., Hoekstra, R. (Editors): Proceedings of the 8th Workshop on Ontology Design and Patterns (WOP 2017) co-located with the 16th International Semantic Web Conference (ISWC 2017), Vienna, Austria, October 21, 2017. CEUR Workshop Proceedings 2043, CEUR-WS.org 2018. – (edited volume)
 
 #### 2017
-Alirezaie, M., Renoux, J., Köckemann, U., Kristoffersson, A, Karlsson, L., Blomqvist, E., Tsiftes, N., Voigt, T., and Loutfi, A.: An Ontology-based Context-aware System for Smart Homes: Ecare@home. Sensors 17(7), MDPI, 2017. – (peer-reviewed journal article)
+Alirezaie, M., Renoux, J., Köckemann, U., Kristoffersson, A, Karlsson, L., Blomqvist, E., Tsiftes, N., Voigt, T., and Loutfi, A.: [An Ontology-based Context-aware System for Smart Homes: Ecare@home.](https://doi.org/10.3390/s17071586) Sensors 17(7), MDPI, 2017. – (peer-reviewed journal article)
 
-Zhang, Z., Gentile, A. L., Blomqvist, E., Augenstein, I., and Ciravegna, F.: An Unsupervised Data-driven Method to Discover Equivalent Relations in Large Linked Datasets. Semantic Web 8(2), pp.197-223, IOS press, 2017. – (peer reviewed journal article)
+Zhang, Z., Gentile, A. L., Blomqvist, E., Augenstein, I., and Ciravegna, F.: [An Unsupervised Data-driven Method to Discover Equivalent Relations in Large Linked Datasets.](http://www.semantic-web-journal.net/system/files/swj1052.pdf) Semantic Web 8(2), pp.197-223, IOS press, 2017. – (peer reviewed journal article)
 
 Blomqvist, E., Hose, K., Paulheim, H., Lawrynowicz, A., Ciravegna, F., and Hartig, O. (Editors): The Semantic Web: ESWC 2017 Satellite Events – ESWC 2017 Satellite Events, Portorož, Slovenia, May 28 – June 1, 2017, Revised Selected Papers. Lecture Notes in Computer Science 10577, Springer 2017, ISBN 978-3-319-70406-7 – (edited volume)
 
@@ -93,7 +93,7 @@ Blomqvist, E., Maynard, D., Gangemi, A., Hoekstra, R., Hitzler, P., and Hartig, 
 Dragoni, M., Solanki, M., and Blomqvist, E. (Editors): Semantic Web Challenges – 4th SemWebEval Challenge at ESWC 2017, Portoroz, Slovenia, May 28 – June 1, 2017, Revised Selected Papers. Communications in Computer and Information Science 769, Springer 2017, ISBN 978-3-319-69145-9 – (edited volume)
 
 #### 2016
-Blomqvist, E., Hammar, K., and Presutti, V.: Engineering Ontologies with Patterns – The eXtreme Design Methodology. In: Ontology Engineering with Ontology Design Pattern – Foundations and Applications, IOS Press, 2016. – (book chapter)
+Blomqvist, E., Hammar, K., and Presutti, V.: [Engineering Ontologies with Patterns – The eXtreme Design Methodology.](https://karlhammar.com/downloads/blomqvist2016engineering.pdf) In: Ontology Engineering with Ontology Design Pattern – Foundations and Applications, IOS Press, 2016. – (book chapter)
 
 Blomqvist, E., van Erp, M., Fokkens, A., Gangemi, A., van Hage, W. R., Janowicz, K., Narock, T., Segers, R., Solanki, M., and Svatek, V.: Collected Research Questions Concerning Ontology Design Patterns. In: Ontology Engineering with Ontology Design Pattern – Foundations and Applications, IOS Press, 2016. – (book chapter)
 
@@ -104,24 +104,24 @@ Blomqvist, E., Ciancarini, P., Poggi, F., and Vitali, F. (Editors): Knowledge En
 Sack, H., Blomqvist, E., d’Aquin, M., Ghidini, C., Ponzetto, S. P., and Lange, C. (Editors): The Semantic Web. Latest Advances and New Domains: 13th International Conference, ESWC 2016, Heraklion, Crete, Greece, May 29–June 2, 2016, Proceedings. Springer LNCS Vol. 9678, 2016. – (edited volume)
 
 #### 2015
-Blomqvist, E., and Thollander, P.: An Integrated Dataset of Energy Efficiency Measures Published as Linked Open Data. Energy Efficiency 8(6), Springer, 2015. – (peer-reviewed journal article)
+Blomqvist, E., and Thollander, P.: [An Integrated Dataset of Energy Efficiency Measures Published as Linked Open Data.](https://link.springer.com/article/10.1007/s12053-015-9341-7) Energy Efficiency 8(6), Springer, 2015. – (peer-reviewed journal article)
 
-Keskisärkkä, R., and Blomqvist, E.: Supporting Real-Time Monitoring in Criminal Investigations. In: The Semantic Web: ESWC 2015 Satellite Events Portorož, Slovenia, May 31 – June 4, 2015, Revised Selected Papers, LNCS Vol. 9341, Springer, 2015. – (peer-reviewed conference contribution)
+Keskisärkkä, R., and Blomqvist, E.: [Supporting Real-Time Monitoring in Criminal Investigations.](https://doi.org/10.1007/978-3-319-25639-9_16) In: The Semantic Web: ESWC 2015 Satellite Events Portorož, Slovenia, May 31 – June 4, 2015, Revised Selected Papers, LNCS Vol. 9341, Springer, 2015. – (peer-reviewed conference contribution)
 
-Dragisic, Z., Lambrix, P., and Blomqvist, E.: Integrating Ontology Debugging into the eXtreme Design Methodology. In: Proceedings of the 6th Workshop on Ontology and Semantic Web Patterns (WOP 2015) co-located with the 14th International Semantic Web Conference (ISWC 2015) Bethlehem, Pensylvania, USA, October 11, 2015, CEUR-WS Vol. 1461, 2015. – (peer-reviewed workshop contribution)
+Dragisic, Z., Lambrix, P., and Blomqvist, E.: [Integrating Ontology Debugging into the eXtreme Design Methodology.](https://www.diva-portal.org/smash/get/diva2:859379/FULLTEXT01.pdf) In: Proceedings of the 6th Workshop on Ontology and Semantic Web Patterns (WOP 2015) co-located with the 14th International Semantic Web Conference (ISWC 2015) Bethlehem, Pensylvania, USA, October 11, 2015, CEUR-WS Vol. 1461, 2015. – (peer-reviewed workshop contribution)
 
 Keskisärkkä, R., and Blomqvist, E.: Sharing and Reusing Continuous Queries – Expression of Interest. In: Online Proceedings of the RDF Stream Processing Workshop at ESWC2015, 2015. – (peer-reviewed workshop contribution)
 
-Keskisärkkä, R., and Blomqvist, E.: Towards the Use of RDF Stream Processing Engines for Event Enrichment from Social Media Streams. In: Online proceedings of the Workshop on Semantics and Analytics for Emergency Response (SAFE2015) collocated with the The 12th International Conference on Information Systems for Crisis Response and Management (ISCRAM2015), 2015. – (peer-reviewed workshop contribution)
+Keskisärkkä, R., and Blomqvist, E.: [Towards the Use of RDF Stream Processing Engines for Event Enrichment from Social Media Streams.](https://www.ida.liu.se/~robke04/publications/Towards%20the%20Use%20of%20RDF%20Stream%20Processing%20for%20Event%20Enrichment%20from%20Social%20Media%20Streams.pdf) In: Online proceedings of the Workshop on Semantics and Analytics for Emergency Response (SAFE2015) collocated with the The 12th International Conference on Information Systems for Crisis Response and Management (ISCRAM2015), 2015. – (peer-reviewed workshop contribution)
 
 Blomqvist, E., Hitzler, P., Krisnadhi, A., Narock, T., and Solanki, M. (Editors): Proceedings of the 6th Workshop on Ontology and Semantic Web Patterns (WOP 2015) co-located with the 14th International Semantic Web Conference (ISWC 2015) Bethlehem, Pensylvania, USA, October 11, 2015. CEUR-WS Vol. 1461, 2015. – (edited volume)
 
 Lambrix, P., Hyvönen, E., Blomqvist, E., Presutti, V., Qi, G., Sattler, U., Ding, Y., Ghidini, C. (Editors): Knowledge Engineering and Knowledge Management EKAW 2014 Satellite Events, VISUAL, EKM1, and ARCOE-Logic, Linköping, Sweden, November 24-28, Revised Selected Papers. Springer LNCS Vol. 8982, 2015. – (edited volume)
 
 #### 2014
-Timpka, T., Spreco, A., Dahlström, Ö., Eriksson, O., Gursky, E., Ekberg, J., Blomqvist, E., Strömgren, M., Karlsson, D., Eriksson, H., Nyce, J., Hinkula, J., and Holm, E.: Performance of eHealth Data Sources in Local Influenza Surveillance: A 5-Year Open Cohort Study. Journal of Medical Internet Research, 16(4):e116, 2014. – (peer-reviewed journal article)
+Timpka, T., Spreco, A., Dahlström, Ö., Eriksson, O., Gursky, E., Ekberg, J., Blomqvist, E., Strömgren, M., Karlsson, D., Eriksson, H., Nyce, J., Hinkula, J., and Holm, E.: [Performance of eHealth Data Sources in Local Influenza Surveillance: A 5-Year Open Cohort Study.](https://doi.org/10.2196/jmir.3099) Journal of Medical Internet Research, 16(4):e116, 2014. – (peer-reviewed journal article)
 
-Blomqvist, E.: The Use of Semantic Web Technologies for Decision Support – A Survey. Semantic Web 5(3): 177-201, IOS Press, 2014. – (peer-reviewed journal article)
+Blomqvist, E.: [The Use of Semantic Web Technologies for Decision Support – A Survey.](http://semantic-web-journal.org/sites/default/files/swj299_1.pdf) Semantic Web 5(3): 177-201, IOS Press, 2014. – (peer-reviewed journal article)
 
 Blomqvist, E., Gangemi, A., and Draicchio, F.: Ontology Design Patterns in Ontology Learning. In: Lehmann, J., and Völker, J. (Eds.) Perspectives On Ontology Learning. IOS Press, 2014. – (book chapter)
 
@@ -224,7 +224,7 @@ Blomqvist, E.: Fully Automatic Construction of Enterprise Ontologies Using Desig
 
 Blomqvist, E., Levashova, T., Öhgren, A., Sandkuhl, K., Smirnov, A. and Tarassov, V.: Configuration of Dynamic SME Supply Chains Based on Ontologies. In: Proc. of the 2nd Intl Conference on Industrial Applications of Holonic and Multi-Agent Systems. Copenhagen, Denmark, Aug.2005. – (peer-reviewed conference contribution)
 
-Blomqvist, E. and Sandkuhl, K.: Patterns in Ontology Engineering – Classification of Ontology Patterns. In: ICEIS 2005, Proceedings of the Seventh International Conference on Enterprise Information Systems, Miami, USA, May 25-28, (ISBN 972-8865-19-8), 2005. – (peer-reviewed conference contribution)
+Blomqvist, E. and Sandkuhl, K.: [Patterns in Ontology Engineering – Classification of Ontology Patterns.](https://scitepress.org/papers/2005/25188/25188.pdf) In: ICEIS 2005, Proceedings of the Seventh International Conference on Enterprise Information Systems, Miami, USA, May 25-28, (ISBN 972-8865-19-8), 2005. – (peer-reviewed conference contribution)
 
 Blomqvist, E., Levashova, T., Öhgren, A., Sandkuhl, K. and Smirnov, A.: Formation of Enterprise Networks for Collaborative Engineering. In: Post-conference proceedings of 3. International Workshop on Collaborative Engineering, Sopron, Hungary, April 2005. – (peer-reviewed workshop contribution)
 
